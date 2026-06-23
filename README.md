@@ -19,7 +19,7 @@ Day 5 project — generates passwords, copies to clipboard, and keeps a session 
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+https://github.com/prdip01/PythonProject1-25/tree/main
 cd password-generator
 pip install -r requirements.txt
 streamlit run app.py
